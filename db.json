@@ -4,51 +4,6 @@
       "id": 1,
       "userId": 101,
       "name": "Alice"
-    },
-    {
-      "FUNCTION_NAME": "ZSDS_6_Z_SCM_DP_MODEL_IF",
-      "ZESDH00009_TO_ZESDH00009_I": {
-        "KEY_IMPORT": 0,
-        "PI_SPART": "01"
-      },
-      "ZESDH00009_TO_ZESDH00009_E": {
-        "KEY_EXPORT": 0,
-        "PE_SUBRC": ""
-      },
-      "ZESDH00009_TO_ZESDH00009_T_02": [
-        {}
-      ],
-      "id": 2
-    },
-    {
-      "FUNCTION_NAME": "ZSDS_6_Z_SCM_DP_MODEL_IF",
-      "ZESDH00009_TO_ZESDH00009_I": {
-        "KEY_IMPORT": 0,
-        "PI_SPART": "01"
-      },
-      "ZESDH00009_TO_ZESDH00009_E": {
-        "KEY_EXPORT": 0,
-        "PE_SUBRC": ""
-      },
-      "ZESDH00009_TO_ZESDH00009_T_02": [
-        {}
-      ],
-      "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
     }
   ]
 }
